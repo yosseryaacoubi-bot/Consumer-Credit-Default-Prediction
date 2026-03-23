@@ -1,4 +1,3 @@
-# Consumer-Credit-Default-Prediction
 # 🚀 Credit Default Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -116,7 +115,7 @@ The notebook includes:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/credit-default-prediction.git
+git clone https://github.com/yosseryaacoubi-bot/credit-default-prediction.git
 ```
 
 2. Install dependencies:
@@ -133,15 +132,5 @@ jupyter notebook
 
 ---
 
-## 🎯 Future Improvements
-
-* Hyperparameter tuning (Optuna / GridSearch)
-* Threshold optimization based on business cost
-* Model explainability (SHAP values)
-* Deployment (API / Streamlit app)
-
----
-
-## 🤝 Contact
 
 Feel free to reach out for feedback, collaboration, or opportunities in Data Science / Machine Learning.
