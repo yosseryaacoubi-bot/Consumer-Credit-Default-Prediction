@@ -114,9 +114,8 @@ Key insights:
 ## 📁 Project Structure
 
 ```
-├── data/
-├── notebooks/
-├── models/
+├── data/archive.zip
+├── consumer-credit-prediciton-(4).ipynb
 ├── README.md
 ```
 
