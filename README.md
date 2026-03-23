@@ -98,6 +98,18 @@ The notebook includes:
 * Matplotlib / Seaborn
 
 ---
+## 🔍 Model Explainability (SHAP)
+
+To improve model interpretability, SHAP (SHapley Additive exPlanations) was used to understand feature contributions.
+
+SHAP helps explain how each feature impacts individual predictions, which is critical in financial applications such as credit risk.
+
+Key insights:
+- Identified the most influential features driving default prediction  
+- Improved transparency of the XGBoost model  
+- Provided interpretable explanations for business stakeholders  
+
+---
 
 ## 📁 Project Structure
 
